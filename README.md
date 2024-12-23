@@ -4,10 +4,10 @@
 Welcome to my GitHub profile! I'm Rahul Rajkumar Kori, a passionate cybersecurity enthusiast and MS student in Cybersecurity risk management, at Indiana University. I’m excited about technology, especially in areas that protect and secure digital systems. My journey into cybersecurity began with a strong foundation in networking, and I have since transitioned into the world of security, eager to tackle modern-day challenges in this field.
 
 About Me
-Current Focus: Cybersecurity, Network Security, and IT Operations
 
 Key Interests:
 
+AI in Security: I am interested in the integration of AI and security, as it represents one of the fastest-growing areas of technology.
 Cloud Security: Exploring methods to secure cloud infrastructures and implement robust security protocols across cloud environments.
 Identity and Access Management (IAM): I enjoy learning and implementing IAM solutions to enhance security and streamline user access in organizations.
 Networking Protocols: I have a strong understanding of networking concepts like IPsec, TLS/SSL, DNS, SIP, RTP, and SRTP.
@@ -15,8 +15,10 @@ Cyber Threat Intelligence: I'm keen on gathering and analyzing digital evidence 
 Automation and Scripting: I love automating cybersecurity tasks using Python and bash scripting to improve efficiency and accuracy.
 
 What I’m Working On:
-IAM Solutions: Designing and implementing solutions for organizations to secure and streamline user access.
+
 Security Tools: Automating traffic analysis, detecting anomalies, and exploring new ways to safeguard systems.
+AI-Driven Security Threat Visualization Platform: This project involves designing and implementing an end-to-end platform to collect, analyze, and visualize security threat data. It integrates data from public threat intelligence sources, processes it to extract meaningful insights, and visualizes it for better understanding and decision-making. The goal is to enhance cybersecurity awareness by presenting actionable information about potential threats, such as malicious IP addresses, file hashes, CVEs, and suspicious domain names.
+
 
 Skills:
 Languages: Python, Bash
