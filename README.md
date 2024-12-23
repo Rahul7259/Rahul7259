@@ -8,15 +8,21 @@ About Me
 Key Interests:
 
 AI in Security: I am interested in the integration of AI and security, as it represents one of the fastest-growing areas of technology.
+
 Cloud Security: Exploring methods to secure cloud infrastructures and implement robust security protocols across cloud environments.
+
 Identity and Access Management (IAM): I enjoy learning and implementing IAM solutions to enhance security and streamline user access in organizations.
+
 Networking Protocols: I have a strong understanding of networking concepts like IPsec, TLS/SSL, DNS, SIP, RTP, and SRTP.
+
 Cyber Threat Intelligence: I'm keen on gathering and analyzing digital evidence to understand and prevent cyber threats.
+
 Automation and Scripting: I love automating cybersecurity tasks using Python and bash scripting to improve efficiency and accuracy.
 
 What I’m Working On:
 
 Security Tools: Automating traffic analysis, detecting anomalies, and exploring new ways to safeguard systems.
+
 AI-Driven Security Threat Visualization Platform: This project involves designing and implementing an end-to-end platform to collect, analyze, and visualize security threat data. It integrates data from public threat intelligence sources, processes it to extract meaningful insights, and visualizes it for better understanding and decision-making. The goal is to enhance cybersecurity awareness by presenting actionable information about potential threats, such as malicious IP addresses, file hashes, CVEs, and suspicious domain names.
 
 
