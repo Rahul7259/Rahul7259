@@ -1,6 +1,10 @@
 # Hi, I'm Rahul Rajkumar Kori 👋
 
-**Network Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul7259&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
+
+**Network Automation Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
 
 I'm a Master's student in **Cybersecurity Risk Management** at Indiana University with **3+ years of experience** as a Network Automation Engineer, passionate about building secure systems, automating network infrastructure, automating security workflows, and identifying vulnerabilities before they become threats.
 
@@ -20,15 +24,15 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 
 ## 💼 Professional Experience
 
-### **Graduate Teaching Assistant – Security for Network Systems** | Indiana University *(Aug 2025 – Dec 2025)*
-- Instructed hands-on laboratory sessions covering Routing (OSPF, BGP, RIP), DHCP configuration, DNS infrastructure, firewall setup, and packet-level traffic analysis using Wireshark across TCP/IP and routing protocol stacks
-- Facilitated technical deep-dives into network security architecture, protocol analysis, and the defense of networked systems to ensure robust infrastructure design and vulnerability mitigation
-
 ### **Security Analyst - Cybersecurity Clinic** | Indiana University *(Jan 2026 – April 2026)*
 - Conducted comprehensive vulnerability assessments using CVSS 3.1 scoring methodology
 - Managed end-to-end security evaluation of Tandem IoT platform (BLE & WiFi attack surfaces)
 - Developed remediation roadmaps aligned with NIST, HIPAA, and ISO 27001 standards
 - Performed formal security architecture reviews with business-impact prioritization
+
+### **Graduate Teaching Assistant – Security for Network Systems** | Indiana University *(Aug 2025 – Dec 2025)*
+- Instructed hands-on laboratory sessions covering Routing (OSPF, BGP, RIP), DHCP configuration, DNS infrastructure, firewall setup, and packet-level traffic analysis using Wireshark across TCP/IP and routing protocol stacks
+- Facilitated technical deep-dives into network security architecture, protocol analysis, and the defense of networked systems to ensure robust infrastructure design and vulnerability mitigation
 
 ### **Senior Technical Analyst** | Ribbon Communications *(Jul 2023 – Aug 2024)*
 - Spearheaded STIR/SHAKEN feature testing from protocol compliance verification to production deployment, ensuring the integrity of caller ID authentication across carrier-grade telecom networks
