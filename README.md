@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Rajkumar Kori 👋
 
-**Network Automation Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
+**Network Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
 
 I'm a Master's student in **Cybersecurity Risk Management** at Indiana University with **3+ years of experience** as a Network Automation Engineer, passionate about building secure systems, automating network infrastructure, automating security workflows, and identifying vulnerabilities before they become threats.
 
