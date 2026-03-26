@@ -196,6 +196,7 @@ I'm always interested in discussing cybersecurity, collaborating on secure codin
 - 📧 **Email:** [rahulrajkumarkori77@gmail.com](mailto:rahulrajkumarkori77@gmail.com)
 - 💼 **LinkedIn:** [Rahul Kori](https://linkedin.com/in/rahul-kori)
 - 🐙 **GitHub:** [@Rahul7259](https://github.com/Rahul7259)
+- 🛡️ **LetsDefend:** [Public Profile](https://letsdefend.io/user/Rahul7259)
 - 📱 **Phone:** +1 (765) 543-8701
 
 ---
