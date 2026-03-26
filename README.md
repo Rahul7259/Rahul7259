@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Rajkumar Kori 👋
 
-**Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
+**Network Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
 
 I'm a Master's student in **Cybersecurity Risk Management** at Indiana University, passionate about building secure systems, automating security workflows, and identifying vulnerabilities before they become threats.
 
@@ -20,7 +20,7 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 
 ## 💼 Professional Experience
 
-### **Security Analyst** | Indiana University *(Jan 2026 – Present)*
+### **Security Analyst - Cybersecurity Clinic** | Indiana University *(Jan 2026 – April 2026)*
 - Conducted comprehensive vulnerability assessments using CVSS 3.1 scoring methodology
 - Managed end-to-end security evaluation of Tandem IoT platform (BLE & WiFi attack surfaces)
 - Developed remediation roadmaps aligned with NIST, HIPAA, and ISO 27001 standards
@@ -52,7 +52,7 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 
 ### **Frameworks & Standards**
 - NIST Cybersecurity Framework
-- ISO 27001 / ISO 27002
+- ISO 27001
 - HIPAA Compliance
 - OWASP Top 10
 - CVSS 3.1 Scoring Methodology
@@ -70,6 +70,7 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 - VoIP Protocol Analysis (SIP, RTP, SRTP)
 - Network Segmentation & Architecture
 - Firewall Configuration & Management
+- Routing Protocols & VLAN
 
 ---
 
