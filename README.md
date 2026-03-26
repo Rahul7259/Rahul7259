@@ -1,9 +1,5 @@
 # Hi, I'm Rahul Rajkumar Kori 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul7259&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</div>
-
 **Network Automation Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
 
 I'm a Master's student in **Cybersecurity Risk Management** at Indiana University with **3+ years of experience** as a Network Automation Engineer, passionate about building secure systems, automating network infrastructure, automating security workflows, and identifying vulnerabilities before they become threats.
@@ -238,3 +234,9 @@ Feel free to explore my repositories, fork projects, and reach out for collabora
 ---
 
 **Last Updated:** March 2026 | *Continuously updating with new security projects and certifications*
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul7259&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
