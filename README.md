@@ -1,8 +1,8 @@
 # Hi, I'm Rahul Rajkumar Kori 👋
 
-**Network Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
+**Network Automation Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
 
-I'm a Master's student in **Cybersecurity Risk Management** at Indiana University, passionate about building secure systems, automating security workflows, and identifying vulnerabilities before they become threats.
+I'm a Master's student in **Cybersecurity Risk Management** at Indiana University with **3+ years of experience** as a Network Automation Engineer, passionate about building secure systems, automating network infrastructure, automating security workflows, and identifying vulnerabilities before they become threats.
 
 ---
 
@@ -20,6 +20,10 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 
 ## 💼 Professional Experience
 
+### **Graduate Teaching Assistant – Security for Network Systems** | Indiana University *(Aug 2025 – Dec 2025)*
+- Instructed hands-on laboratory sessions covering Routing (OSPF, BGP, RIP), DHCP configuration, DNS infrastructure, firewall setup, and packet-level traffic analysis using Wireshark across TCP/IP and routing protocol stacks
+- Facilitated technical deep-dives into network security architecture, protocol analysis, and the defense of networked systems to ensure robust infrastructure design and vulnerability mitigation
+
 ### **Security Analyst - Cybersecurity Clinic** | Indiana University *(Jan 2026 – April 2026)*
 - Conducted comprehensive vulnerability assessments using CVSS 3.1 scoring methodology
 - Managed end-to-end security evaluation of Tandem IoT platform (BLE & WiFi attack surfaces)
@@ -27,15 +31,16 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 - Performed formal security architecture reviews with business-impact prioritization
 
 ### **Senior Technical Analyst** | Ribbon Communications *(Jul 2023 – Aug 2024)*
+- Spearheaded STIR/SHAKEN feature testing from protocol compliance verification to production deployment, ensuring the integrity of caller ID authentication across carrier-grade telecom networks
+- Architected high-fidelity test environments using VMware and Docker to simulate Service Provider network topologies, significantly reducing deployment latency for complex protocol validation scenarios
+- Executed rigorous stress testing on Load Balancers to guarantee system stability and availability during peak traffic intervals exceeding thousands of concurrent VoIP calls
 - Engineered automated CVSS-based vulnerability triage system using Python & Perl (reduced MTTR significantly)
-- Conducted secure code reviews of STIR/SHAKEN framework
-- Identified multiple OWASP Top 10 vulnerabilities using Nessus scans
-- Ensured critical security gaps were remediated before production deployment
 
 ### **Technical Analyst** | Ribbon Communications *(Aug 2021 – Jun 2023)*
-- Tested patch builds and performed deep packet inspection on VoIP protocols (SIP, RTP, SRTP)
-- Identified 8 protocol-level vulnerabilities affecting 30+ telecom endpoints
-- Architected 10 reproducible network test environments using Docker & VMware ESXi
+- Configured complex VoIP signaling paths using TLS, DTLS, and RTP; performed deep packet inspection with Wireshark and tcpdump to resolve protocol-level anomalies and security vulnerabilities
+- Resolved intricate customer escalations by recreating production environments and developing custom endpoint scripts based on log analysis to gain deep protocol behavioral insight
+- Identified 8 protocol-level vulnerabilities affecting 30+ telecom endpoints, ensuring systems met security standards before deployment
+- Managed automated testing lifecycles, including Nessus vulnerability scans and regression suites; developed Python/Perl scripts to automate repetitive scenarios and enhance network hardening
 - **Reduced environment setup time from 4 hours to 1.5 hours (60% improvement)**
 
 ---
@@ -60,14 +65,18 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 ### **Programming & Automation**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-IaC-EE0000?style=flat&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Lambda%20|%20CloudTrail%20|%20EventBridge-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
-**Skills:** Python, Bash scripting, CI/CD pipelines, REST APIs, Git, Docker, VMware ESXi, Linux
+**Skills:** Python, Perl, Bash scripting, Ansible (IaC), Terraform, YAML, JSON, CI/CD pipelines, REST APIs, Git, Docker, VMware ESXi, Linux
 
-### **Networking**
+### **Network & Protocols**
+- IPv4/IPv6 Configuration
+- Routing Protocols: BGP, OSPF, IS-IS, RIP
+- VoIP Protocols: SIP, RTP, SRTP, TLS, DTLS
+- Ethernet Switching, STP, MPLS, PON, DSL
 - Deep Packet Inspection (DPI)
-- VoIP Protocol Analysis (SIP, RTP, SRTP)
 - Network Segmentation & Architecture
 - Firewall Configuration & Management
 - Routing Protocols & VLAN
@@ -76,7 +85,18 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 
 ## 🚀 Key Projects
 
-### **1. Automated DevSecOps Security Pipeline**
+### **1. Secure DHCP and DNS Lab Network**
+*Enterprise-grade network infrastructure with security controls*
+- Architected an isolated multi-segment lab network featuring dedicated Linux-based DHCP and DNS servers to simulate enterprise-grade infrastructure
+- Implemented Access Control Lists (ACLs) to regulate inter-VLAN traffic and prevent unauthorized IP spoofing, DNS poisoning, and man-in-the-middle attacks
+- Validated defense mechanisms via packet-level analysis to confirm successful secure lease allocation and domain resolution
+- **Impact:** Achieved 100% connectivity uptime for all authenticated test endpoints with robust security controls
+
+**Stack:** Linux, DHCP, DNS, ACLs, VLAN, Wireshark, tcpdump
+
+---
+
+### **2. Automated DevSecOps Security Pipeline**
 *Security automation with GitHub Actions & SonarCloud*
 - Integrated SonarCloud SAST scanning into CI/CD pipeline via GitHub Actions
 - Automated detection of OWASP Top 10 vulnerabilities
@@ -87,7 +107,7 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 
 ---
 
-### **2. Automated S3 Security Remediation (AWS)**
+### **3. Automated S3 Security Remediation (AWS)**
 *Event-driven Python application for cloud security*
 - Built self-healing Lambda function using AWS CloudTrail & EventBridge
 - Automated detection & remediation of S3 bucket misconfigurations
@@ -100,7 +120,7 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 
 ---
 
-### **3. IoT Security Assessment & Threat Modeling**
+### **4. IoT Security Assessment & Threat Modeling**
 *Comprehensive security evaluation of IoT platform*
 - Conducted vulnerability assessments on Tandem IoT platform
 - Analyzed BLE and WiFi attack surfaces
@@ -111,7 +131,7 @@ Currently working as a **Security Analyst** at Indiana University, where I condu
 
 ---
 
-### **4. Network Test Environment Automation**
+### **5. Network Test Environment Automation**
 *Infrastructure as Code for security testing*
 - Architected 10 reproducible network test environments
 - Used Docker containers and VMware ESXi virtualization
