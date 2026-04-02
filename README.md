@@ -1,4 +1,4 @@
-# Hi, I'm Rahul Rajkumar Kori 👋
+# Hi, I'm Rahul Rajkumar Kori
 
 **Network Automation Engineer | Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
 
