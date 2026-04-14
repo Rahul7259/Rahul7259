@@ -1,5 +1,4 @@
-# Hi, I'm Rahul Rajkumar Kori 👋
-
+# Hi, I'm Rahul K. 👋
 **Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
 
 I'm a Master's student in **Cybersecurity Risk Management** at Indiana University with **3+ years of experience** as a Technical Analyst, passionate about threat detection, incident response, and automating security workflows.
@@ -11,6 +10,7 @@ I'm a Master's student in **Cybersecurity Risk Management** at Indiana Universit
 - 🔍 Reduced MTTR by **~25%** and false positives by **~30%** using Splunk at telecom scale
 - 🛡️ Investigated **200+** security incidents mapped to MITRE ATT&CK
 - ☁️ Built event-driven AWS remediation systems cutting misconfiguration response from minutes to seconds
+- 🏥 Delivered a full Incident Response Plan for a real client aligned with NIST CSF, ISO 27001, and HIPAA
 - 📍 Bloomington, IN | Open to relocation anywhere in the US | EAD
 
 ---
@@ -21,56 +21,67 @@ I'm a Master's student in **Cybersecurity Risk Management** at Indiana Universit
 `Vulnerability Management` `Penetration Testing` `CVSS 3.1` `NIST CSF` `ISO 27001` `HIPAA` `OWASP Top 10` `SAST` `DAST`
 
 **Threat Detection & SIEM**
-`Splunk (SPL)` `Threat Hunting` `Incident Response` `MITRE ATT&CK`
+`Splunk (SPL)` `SIEM` `Threat Hunting` `Incident Response` `MITRE ATT&CK`
+
+**Threat Intelligence**
+`VirusTotal` `Any.Run` `Shodan`
 
 **Networking & Systems**
-`TCP/IP` `BGP` `OSPF` `DNS` `VPNs` `Firewalls` `Wireshark` `tcpdump` `Nmap`
+`TCP/IP` `BGP` `OSPF` `DNS` `HTTP/HTTPS` `VPNs` `Firewalls` `Wireshark` `tcpdump` `Nmap`
 
 **Cloud & DevSecOps**
-`AWS IAM` `S3` `Lambda` `CloudTrail` `EventBridge` `CloudWatch` `GitHub Actions` `CI/CD Security`
+`AWS IAM` `S3` `Lambda` `CloudTrail` `EventBridge` `CloudWatch` `GitHub Actions` `CI/CD Security` `Terraform` `Ansible`
 
 **Security Tools**
-`Burp Suite` `OWASP ZAP` `Nessus` `VirusTotal` `Any.Run` `Shodan`
+`Burp Suite` `OWASP ZAP` `Nessus`
 
-**Programming**
-`Python` `Bash` `PowerShell` `Perl` `Git`
+**Programming & Automation**
+`Python` `Bash` `PowerShell` `Perl` `VBScript` `Git` `PCL`
 
 ---
 
 ## 💼 Experience
 
+**Cybersecurity Clinic (Consulting Project)** *(Jan 2026 – Apr 2026)*
+Indiana University Bloomington
+- Developed a comprehensive Incident Response Plan (IRP) aligned with NIST CSF, ISO 27001, and HIPAA
+- Conducted risk assessments and prioritized vulnerabilities based on business impact and exploitability
+- Presented an actionable remediation roadmap simulating enterprise security operations and incident handling workflows
+
 **Teaching Assistant — Security for Network Systems** *(Aug 2025 – Dec 2025)*
 Indiana University Bloomington
-- Led hands-on security training for 50+ graduate students
-- Instructed Linux hardening and iptables firewall configurations
-- Designed real-world attack simulations and network exploit labs
+- Led hands-on security training for 50+ graduate students covering secure network architecture, threat modeling, and risk mitigation
+- Instructed and evaluated Linux system hardening and iptables firewall configurations, improving lab success rates by 30%+
+- Designed and executed real-world attack simulations involving misconfigurations and network exploits
 
 **Senior Technical Analyst** *(Jul 2023 – Aug 2024)*
 Ribbon Communications, Bengaluru
-- Analyzed millions of SIEM-ingested events daily via Splunk
-- Designed dashboards reducing MTTR by ~25% and false positives by ~30%
-- Improved detection logic to reduce alert fatigue
+- Analyzed millions of network and signaling events daily via Splunk across telecom infrastructure to detect anomalies and potential threats
+- Designed and implemented Splunk dashboards and correlation searches, reducing MTTR by ~25% and false positives by ~30%
+- Investigated TCP/IP and telecom signaling anomalies to accurately distinguish malicious activity from benign patterns
+- Improved detection logic and alerting rules, significantly reducing alert fatigue and increasing actionable security signals
 
 **Technical Analyst** *(Aug 2021 – Jun 2023)*
 Ribbon Communications, Bengaluru
-- Investigated 200+ incidents using PCAP analysis and MITRE ATT&CK mapping
-- Detected lateral movement and C2 traffic patterns
-- Executed API security assessments using Burp Suite
+- Investigated 200+ security incidents using PCAP analysis and endpoint logs, mapping attacker behaviors to MITRE ATT&CK
+- Detected lateral movement, command-and-control traffic, and anomalous network patterns to improve incident triage accuracy
+- Executed API security assessments using Burp Suite, identifying and validating vulnerabilities such as broken authentication and injection flaws
+- Collaborated with engineering teams to implement remediation fixes, strengthening the security posture of cloud-based communication platforms
 
 ---
 
 ## 🚀 Projects
 
-**🔒 Automated S3 Security Remediation**
-Event-driven system using AWS Lambda + CloudTrail + EventBridge to auto-fix S3 misconfigurations in real time. Reduced response time from minutes to seconds.
-`AWS` `Lambda` `CloudTrail` `EventBridge` `IAM` `Python`
-
 **⚙️ Automated DevSecOps Pipeline**
-CI/CD pipeline with SAST security gates aligned to OWASP Top 10. Reduced manual review effort by ~40%.
+CI/CD-integrated DevSecOps pipeline across multiple repositories with SAST-based security gates aligned to OWASP Top 10. Reduced manual security review effort by ~40% and improved early-stage vulnerability detection.
 `GitHub Actions` `SonarCloud` `Python` `CI/CD`
 
+**🔒 Automated S3 Security Remediation**
+Event-driven remediation system to detect and auto-fix S3 misconfigurations in real time. Integrated CloudTrail and EventBridge triggers with AWS Lambda to enforce IAM least-privilege policies. Reduced misconfiguration response time from minutes to seconds.
+`AWS Lambda` `S3` `CloudTrail` `EventBridge` `IAM` `CloudWatch` `Python`
+
 **📋 Cybersecurity Clinic (Consulting)**
-Delivered a full Incident Response Plan for a real client aligned with NIST CSF, ISO 27001, and HIPAA.
+Delivered a full Incident Response Plan for a real client aligned with NIST CSF, ISO 27001, and HIPAA. Conducted risk assessments and presented an actionable remediation roadmap.
 `NIST CSF` `ISO 27001` `HIPAA` `Risk Assessment`
 
 ---
@@ -78,11 +89,11 @@ Delivered a full Incident Response Plan for a real client aligned with NIST CSF,
 ## 🎓 Education & Certifications
 
 🎓 **M.S. Cybersecurity Risk Management** — Indiana University Bloomington *(Expected May 2026)*
-🎓 **B.E. Electronics & Communication Engineering** — JSS Science and Technology University
+🎓 **B.E. Electronics & Communication Engineering** — JSS Science and Technology University, Mysuru
 
-🛡️ CompTIA Security+ (2025)
-🌐 CCNA (2026)
-☁️ AWS Certified Cloud Practitioner (2025)
+🛡️ CompTIA Security+
+🌐 CCNA
+☁️ AWS Certified Cloud Practitioner
 
 ---
 
@@ -90,4 +101,5 @@ Delivered a full Incident Response Plan for a real client aligned with NIST CSF,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--kori-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-kori/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rahul7259-181717?style=flat&logo=github)](https://github.com/Rahul7259)
-📧 rahulrajkumarkori1999@gmail.com
+
+📧 rahulrajkumarkori77@gmail.com | 📞 765-543-8701
