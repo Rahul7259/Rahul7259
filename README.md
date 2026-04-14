@@ -1,4 +1,4 @@
-# Hi, I'm Rahul K. 👋
+# Hi, I'm Rahul Rajkumar Kori
 **Cybersecurity Engineer | Security Analyst | DevSecOps Specialist**
 
 I'm a Master's student in **Cybersecurity Risk Management** at Indiana University with **3+ years of experience** as a Technical Analyst, passionate about threat detection, incident response, and automating security workflows.
